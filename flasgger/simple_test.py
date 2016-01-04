@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 # create a virtualenv
 mkvirtualenv test_api
